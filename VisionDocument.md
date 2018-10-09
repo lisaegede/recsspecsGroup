@@ -46,9 +46,7 @@ Aye users are hoping to find
 
 
 2.5 Alternatives and Competition
-
 2.5.1 Competitor 1
-
 2.5.2 Competitor 2
 
 3 Stakeholders
